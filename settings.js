@@ -37,8 +37,8 @@ var _0x2fd240=_0x5d66;function _0x5d66(_0x2ed051,_0xea9c3d){var _0x5c160d=_0x5c1
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['.']
-global.sp = '.'
+global.prefa = ['','!','.','#','&']
+global.sp = ''
 
 //messages
 global.mess = {
