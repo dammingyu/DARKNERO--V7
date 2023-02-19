@@ -26,7 +26,7 @@ global.location = "indonesia, asia, jakarta" //ur location
 global.ownernomer = "6289508996342" //ur number
 global.premium = ['6289508996342'] //ur premium number
 global.botname = 'KNETBOT' //ur bot name
-global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/ID0x5kebsyv06Qtk2jN8kN" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@knetmusicofficial" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARKNERO--V7' //script link
 global.themeemoji = "🐶" //ur theme emoji
@@ -37,7 +37,7 @@ var _0x2fd240=_0x5d66;function _0x5d66(_0x2ed051,_0xea9c3d){var _0x5c160d=_0x5c1
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 global.sp = ''
 
 //messages
