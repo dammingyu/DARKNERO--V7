@@ -19,13 +19,13 @@ global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['6289508996342'] //ur owner number
 global.ownername = "ISTP-A MG" //ur owner name
 global.ytname = "knetmusic" //ur yt chanel name
-global.socialm = "Dark Nero" //ur github or insta name
+global.socialm = "dammingyu" //ur github or insta name
 global.location = "indonesia, asia, jakarta" //ur location
 
 //bot bomdy 
 global.ownernomer = "6289508996342,6282230392514,6287769134132,6289512905644,6285338391264" //ur number
 global.premium = ['6289508996342,6282230392514,6287769134132,6289512905644,6285338391264'] //ur premium number
-global.botname = 'KNETBOT' //ur bot name
+global.botname = 'KNETBOT PROGRAM' //ur bot name
 global.linkz = "https://chat.whatsapp.com/ID0x5kebsyv06Qtk2jN8kN" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@knetmusicofficial" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARKNERO--V7' //script link
